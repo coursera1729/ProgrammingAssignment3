@@ -1,6 +1,3 @@
----
-output: html_document
----
 ## Introduction to Project
 This README file contains information about the project work from the Coursera Course "Getting and Cleaning Data". 
 

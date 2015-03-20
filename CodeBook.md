@@ -1,6 +1,3 @@
----
-output: html_document
----
 ## Study Design 
 Thir project derives from the Human Activity Recognition Using Smartphones Dataset (Version 1.0), work done by Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto, at the Smartlab - Non Linear Complex Systems Laboratory, DITEN - Universit? degli Studi di Genova, Via Opera Pia 11A, I-16145, Genoa, Italy. A full description is available at the site where the data was obtained: 
 
