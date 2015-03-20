@@ -52,7 +52,7 @@ The activity labels used in this study are as follows
 * Each feature vector is a row on the text file.
 
 ## Tidy Data Generation
-Tidy data was created for the purpose of this project work. As indicated in the project description, using R code, the two data sets (training and test) were merged. The merged table also includes the activity and subhect column. The y_test.txt and y_train.txt contain the activity done by the subjects, captured in the subject_test.txt and subject_train.txt file. The X_text.txt and X-tain.txt file contains information about 561 features. These features are tabulated in the features.txt file. 
+Tidy data was created for the purpose of this project work. As indicated in the project description, using R code, the two data sets (training and test) were merged. The merged table also includes the activity label and subjectID column. The y_test.txt and y_train.txt contain the activity done by the subjects, captured in the subject_test.txt and subject_train.txt file. The X_text.txt and X-tain.txt file contains information about 561 features. These features are tabulated in the features.txt file. 
 
 In the next step, measurements on just the mean and standard deviation for each of the measurement was obtained. 
 
@@ -64,6 +64,6 @@ The merged table has column headers included. The column headers are extracted f
 For the merged data, 
 * Subject ID indicated by numeric ID from 1 to 30
 * Activity label as shown above. 
-* 561 features described in FeaturesInfo.txt
+* 561 features described in FeaturesInfo.txt available with the data set. 
 
 The tidy set,average of each of the above mentioned 561 features for each activity and each subject ID. 
